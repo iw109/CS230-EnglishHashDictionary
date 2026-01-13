@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Speller
+comment0.text=\n\ Speller.java\ \n\ CS230\ Lab\ on\ hash\ tables\n\ To\ check\ a\ text\ file\ against\ a\ dictionary\ of\ english\ words,\ \n\ which\ is\ constructed\ from\ an\ other\ text\ file.\n\n\ @author\ Imara\ Wangia\ \n\ @version\ 04.24.2025\n
+comment1.params=filename
+comment1.target=Speller(java.lang.String)
+comment2.params=filename
+comment2.target=boolean\ checkSpelling(java.lang.String)
+comment2.text=\n\ method\ checkSpelling\ @param\ String\ filename\n\ @return\ boolean\ that\ returns\ true\ if\ a\ file\ contains\ mispelled\ words,\ and\ adds\ them\ to\ \n\ a\ linked\ list,\ otherwise\ it\ returns\ false.\ \n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\n\ method\ String\ toString\ returns\ a\ string\ with\ how\ many\ words\ are\ misspelled\ and\ a\ list\ of\n\ misspelled\ words.\ \n
+comment4.params=fileName
+comment4.target=void\ saveToTGF(java.lang.String)
+comment4.text=\n\ method\ saveToTGF\ takes\ @param\ filename\ and\ writes\ the\ list\ of\ mispelled\ words\ to\ a\ file.\ \n
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+comment5.text=\n\ method\ main\ tester\ code\n
+numComments=6

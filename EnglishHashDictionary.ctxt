@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=EnglishHashDictionary
+comment0.text=\n\ Reads\ a\ dictionary\ from\ the\ input\ file,\ into\ a\ hash\ table.\ \n\ Each\ line\ in\ the\ file\ contains\ only\ one\ word.\n\ \n\ @author\ Imara\ Wangia\n\ @version\ 04.24.2025\n
+comment1.params=filename
+comment1.target=EnglishHashDictionary(java.lang.String)
+comment2.params=word
+comment2.target=void\ addWord(java.lang.String)
+comment2.text=\n\ \ method\ addWord\ @para\ word\ adds\ a\ word\ to\ a\ dictionary\n
+comment3.params=word
+comment3.target=void\ removeWord(java.lang.String)
+comment3.text=\n\ \ method\ removeWord\ @para\ word\ removes\ a\ word\ from\ a\ dictionary\n
+comment4.params=word
+comment4.target=boolean\ searchWord(java.lang.String)
+comment4.text=\n\ \ method\ searchWord\ @para\ word\ checks\ to\ see\ if\ a\ word\ is\ in\ the\ dictionary\n
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+comment5.text=\n\ \ method\ main\ tester\n
+numComments=6

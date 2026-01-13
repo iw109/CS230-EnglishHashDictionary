@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Dictionary
+comment0.text=\ One\ can\ have\ different\ kinds\ of\ dictionaries,\ like\ dictionaries\ based\ on\ \n\ arrays,\ or\ linked\ lists,\ or\ hash\ tables,\ or\ Binary\ search\ trees,\ etc.\n\ However,\ any\ kind\ of\ dictionary\ should\ provide\ a\ way\ to\ add\ a\ word\ and\ search\ for\ a\ word.\n\n
+comment1.params=word
+comment1.target=void\ addWord(java.lang.String)
+comment1.text=\n\ Adds\ input\ String\ to\ the\ dictionary\ \n
+comment2.params=word
+comment2.target=boolean\ searchWord(java.lang.String)
+comment2.text=\n\ Searches\ the\ dictionary\ for\ the\ input\ String.\n\ Returns\ true\ if\ found,\ false\ otherwise.\n
+comment3.params=word
+comment3.target=void\ removeWord(java.lang.String)
+comment3.text=\n\ Removes\ from\ the\ dictionary\ for\ the\ input\ String.\n\ It\ does\ nothing\ if\ the\ input\ word\ is\ not\ in\ the\ dictionary.\n
+numComments=4
